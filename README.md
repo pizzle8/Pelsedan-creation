@@ -23,7 +23,7 @@ Official website for **PELSEDAN CREATION** — Buying and Selling of Smart Touch
 ## 📞 Official Business Contacts
 
 - **Store Name**: PELSEDAN CREATION
-- **Proprietor**: Mr. Oluwaseun Cornelius
+- **Proprietor**: Mr. Kayode Adebanjo
 - **Telephone / WhatsApp**: `08033193226` / `+234 803 319 3226`
 - **Email Address**: `oluwaseuncornelius9@gmail.com`
 - **Delivery**: Direct doorstep delivery in Lagos & interstate park waybills across Nigeria.
@@ -33,7 +33,7 @@ Official website for **PELSEDAN CREATION** — Buying and Selling of Smart Touch
 ## 💳 Payment Options on Website
 
 1. **Card / USSD Online Payment Simulation**: 256-bit encrypted checkout with instant verification.
-2. **Direct Bank Transfer**: Access Bank Plc (Account Name: PELSEDAN CREATION / OLUWASEUN CORNELIUS, Account No: `08033193226`).
+2. **Direct Bank Transfer**: Opay (Account Name: PELSEDAN CREATION / Gbenga Kayode Account No: `08033193226`).
 3. **Instant WhatsApp Order**: Direct order forward to `08033193226` with complete customer invoice.
 4. **Pay on Delivery**: Available for designated local deliveries.
 
